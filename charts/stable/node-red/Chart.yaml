@@ -17,5 +17,5 @@ maintainers:
   email: jeff@billimek.com
 dependencies:
 - name: common
-  repository: https://library-charts.k8s-at-home.com
+  repository: https://github.com/nbor01/node-red
   version: 4.0.0
